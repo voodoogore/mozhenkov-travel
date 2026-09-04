@@ -1,0 +1,15 @@
+ASSET_MAP
+logo-header.png — логотип для белой шапки
+logo-mark.png — знак для темного футера
+logo-original.png — исходный логотип пользователя
+hero-first.webp — hero из первого утвержденного макета
+spain.webp — Испания
+italy.webp — Италия
+france.webp — Франция
+armenia.webp — долгосрочный Шенген / Армения
+usa.webp — США
+uk.webp — Великобритания
+other-visas.webp — другие визы
+passport.webp — загранпаспорт
+favicon.png — favicon
+cta-mountains.webp — дополнительный фон (в текущем коде не обязателен)
